@@ -1,9 +1,11 @@
 InFound: A Crowdsourcing Web Application for Lost and Found Items with Geolocation Technology
 
 📌 Overview
+
 InFound is a centralized, user-friendly, and community-driven web application designed to optimize the lost-and-found process. By leveraging crowdsourcing, geolocation technology, and social features, InFound streamlines reporting, tracking, and recovering lost items. The platform fosters collaboration and user engagement to increase the likelihood of recovering lost possessions while promoting transparency, security, and accessibility.
 
 🚀 Features
+
 🔍 Advanced Search and Filtering
 Filter posts by category, date, keywords, and location radius.
 
