@@ -100,4 +100,5 @@ Report inappropriate content or verify your account for additional features.
 📬 Contact
 For inquiries, feedback, or collaboration:
 📧 : uyferjinanne@gmail.com
+
 👨‍💻 Developed by: Ferjin-Anne Uy, Archie D. Custodio, April Z. Gomez, and Tetsuhiro U. Kodo
